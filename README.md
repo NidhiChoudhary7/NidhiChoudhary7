@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Reinforcement Learning and LLM**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nidhic2507](https://github.com/nidhic2507)
+- 👨‍💻 All of my projects are available at [https://github.com/nidhichoudhary7](https://github.com/nidhichoudhary7)
 
 - 📝 I regularly write articles on [https://medium.com/@nidhic0711](https://medium.com/@nidhic0711)
 
