@@ -3,7 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nidhichoudhary7" alt="nidhichoudhary7" /></a> </p>
 
-- 🔭 I’m currently working on [Resume Builder](https://github.com/nidhic2507/Resume_Builder)
+- 🔭 I’m currently working on [Optical Coherence Tomography (OCT) Image Classification using Deep Learning](https://github.com/NidhiChoudhary7/Deep-Learning-Octminist-Classification)
+  
+- 🔭 I’m currently also working on [StockMate – A smart bot for warehouse automation](https://github.com/NidhiChoudhary7/Reinforcement-Learning)
 
 - 🌱 I’m currently learning **Reinforcement Learning and LLM**
 
