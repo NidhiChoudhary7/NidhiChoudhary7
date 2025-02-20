@@ -11,13 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nidhichoudhary7](https://github.com/nidhichoudhary7)
 
-- 📝 I regularly write articles on [https://medium.com/@nidhic0711](https://medium.com/@nidhic0711)
-
 - 💬 Ask me about **Machine Learning and Deep Learning**
 
 - 📫 How to reach me **nidhic0711@gmail.com**
 
-- ⚡ Fun fact **I love playing soccer**
+- ⚡ Fun fact **I was playing soccer professionally in India**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
