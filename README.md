@@ -36,6 +36,13 @@
 - 🤖 **[Reinforcement-Learning Warehouse Robot](https://github.com/NidhiChoudhary7/Reinforcement-Learning-Warehouse-Robot)**  
   Designed and implemented reinforcement learning algorithms for task planning in a simulated warehouse. Improved route optimization and operational efficiency.
 
+- 💳 **[Buy Now, Pay Later Classification](https://github.com/NidhiChoudhary7/Data_Science/tree/main/Buy_Now_Pay_Later_Classification)**  
+  Developed a machine learning model to predict which customers are most likely to opt for BNPL services. Focused on classifying payment behavior and enabling proactive risk mitigation and targeted interventions.
+
+- 💰 **[AI Model Price Calculator](https://github.com/asharan2buff/ModelPricing/tree/main)**  
+  Built a cost estimation tool for token-based AI model usage including LLaMA, Qwen, DeepSeek, and FLUX models. Designed using Streamlit with interactive tabs, CSV upload support, token counting via `tiktoken`, and dynamic pricing summaries to support budgeting for GenAI projects.
+
+
 
 ---
 
