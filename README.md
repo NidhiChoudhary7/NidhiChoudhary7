@@ -13,6 +13,10 @@
   </a>
 </p>
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=nidhichoudhary7&label=Profile%20views&color=0e75b6&style=flat" alt="nidhichoudhary7" /> 
+</p>
+
 ---
 
 <h3 align="left">🔭 Projects</h3>
@@ -26,11 +30,11 @@
 - 📊 **[Multi-Class Image Classification](https://github.com/NidhiChoudhary7/Image_Classification_Transfer_Learning)**  
   Trained image classifiers using EfficientNet, ResNet, and VGG on real-world image data; reached 91.28% F1 score and 92.57% validation accuracy.
 
-- 🚀 **OCT Image Classification with Deep Learning**  
+- 🩺 **OCT Image Classification with Deep Learning**  
   Used CNNs to classify OCT scans for eye diseases using the OctMNIST dataset, achieving strong performance in medical imaging.
 
-- 🤖 **[StockMate – RL-Powered Warehouse Bot](https://github.com/NidhiChoudhary7/Reinforcement-Learning)**  
-  Built a reinforcement learning agent to navigate and optimize tasks in a simulated warehouse, improving operational flow.
+- 🤖 **[Reinforcement-Learning Warehouse Robot](https://github.com/NidhiChoudhary7/Reinforcement-Learning-Warehouse-Robot)**  
+  Designed and implemented reinforcement learning algorithms for task planning in a simulated warehouse. Improved route optimization and operational efficiency.
 
 ---
 
