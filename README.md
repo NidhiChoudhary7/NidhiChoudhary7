@@ -22,32 +22,40 @@
 <h3 align="left">🔭 Projects</h3>
 
 - 🧠 **[ChatDB – NLP-Powered Database Query Engine](https://github.com/NidhiChoudhary7/ChatDB)**  
-  Developed an LLM-based system to convert natural language to SQL/NoSQL queries using RAG and knowledge graph integration. Empowered 50+ non-technical users and cut reporting time by 75%.
+  Developed an LLM-based system to convert natural language to SQL/NoSQL queries using RAG and knowledge graph integration. Empowered 50+ non-technical users and cut reporting time by 75%.  
+  **Used:** Python, GPT-4o, RAG, ChromaDB, MongoDB, Azure SQL, Redis, Docker
 
 - 🧘‍♀️ **[Therapy.ai – AI Mental Wellness Companion](https://github.com/NidhiChoudhary7/Therapy.ai)**  
-  Built a real-time companion using Mistral-7B with LoRA fine-tuning. Deployed using Flask & React for video/voice therapy interactions. Achieved 85% positive feedback.
+  Built a real-time companion using Mistral-7B with LoRA fine-tuning. Deployed using Flask & React for video/voice therapy interactions. Achieved 85% positive feedback.  
+  **Used:** Python, Mistral-7B, LoRA, Flask, React, Generative AI
 
 - 📊 **[Multi-Class Image Classification](https://github.com/NidhiChoudhary7/Image_Classification_Transfer_Learning)**  
-  Trained image classifiers using EfficientNet, ResNet, and VGG on real-world image data; reached 91.28% F1 score and 92.57% validation accuracy.
+  Trained image classifiers using EfficientNet, ResNet, and VGG on real-world image data; reached 91.28% F1 score and 92.57% validation accuracy.  
+  **Used:** Python, PyTorch, CNN, Transfer Learning
 
 - 🩺 **[OCTMNIST Image Classification](https://github.com/NidhiChoudhary7/OctMnist-Classification)**  
-  Used CNNs to classify OCT scans for retinal diseases. Achieved high precision on the OctMNIST dataset, contributing to medical AI.
+  Used CNNs to classify OCT scans for retinal diseases. Achieved high precision on the OctMNIST dataset, contributing to medical AI.  
+  **Used:** Python, PyTorch, CNN, Medical Imaging, OctMNIST
 
 - 🤖 **[Reinforcement-Learning Warehouse Robot](https://github.com/NidhiChoudhary7/Reinforcement-Learning-Warehouse-Robot)**  
-  Designed and implemented reinforcement learning algorithms for task planning in a simulated warehouse. Improved route optimization and operational efficiency.
+  Designed and implemented reinforcement learning algorithms for task planning in a simulated warehouse. Improved route optimization and operational efficiency.  
+  **Used:** Python, Reinforcement Learning,  Q-Learning, DQN, OpenAI Gym
 
 - 💳 **[Buy Now, Pay Later Classification](https://github.com/NidhiChoudhary7/Data_Science/tree/main/Buy_Now_Pay_Later_Classification)**  
-  Developed a machine learning model to predict which customers are most likely to opt for BNPL services. Focused on classifying payment behavior and enabling proactive risk mitigation and targeted interventions.
+  Developed a machine learning model to predict customer adoption of BNPL services and classify payment behavior. Enables strategic targeting and risk mitigation through intelligent prediction.  
+  **Used:** Python, Scikit-learn, Pandas, Classification
 
-- 💰 **[AI Model Price Calculator](https://github.com/asharan2buff/ModelPricing/tree/main)**  
-  Built a cost estimation tool for token-based AI model usage including LLaMA, Qwen, DeepSeek, and FLUX models. Designed using Streamlit with interactive tabs, CSV upload support, token counting via `tiktoken`, and dynamic pricing summaries to support budgeting for GenAI projects.
+- 💰 **[AI Model Price Calculator (Streamlit App)](https://github.com/asharan2buff/ModelPricing/tree/main)**  
+  Built a Streamlit-based calculator for estimating token-based usage cost across models like LLaMA, Qwen, DeepSeek, and FLUX. Includes CSV upload, token counting, and pricing logic to support GenAI budgeting.  
+  **Used:** Python, Streamlit, tiktoken, pandas
 
 - 🦠 **[Rabies Cases Analysis and Prediction Pipeline](https://github.com/NidhiChoudhary7/Data_Science/tree/main/Rabies_Data_Analysis_and_Classification)**  
-  Created a complete ML pipeline to analyze and forecast Rabies cases using public datasets from New York State. Helps public health agencies monitor trends and allocate resources effectively.
+  Created a complete ML pipeline to analyze and forecast Rabies cases using public datasets from New York State. Helps public health agencies monitor trends and allocate resources effectively.  
+  **Used:** Python, Scikit-learn, Pandas, EDA, Public Health Data
 
 - 🍔 **[OOP-Based Web Scraping & Data Analysis – Food Delivery Dataset](https://github.com/NidhiChoudhary7/Data-Analysis---Food-Delivery-Dataset?tab=readme-ov-file#web-scraping-and-data-anlysis-of-food-delivery-dataset)**  
-  Designed a modular and object-oriented Python pipeline for web scraping and data analysis of a food delivery dataset. The project applies OOP principles for clean code structure and enhanced scalability, enabling deeper insights into customer preferences and delivery patterns.
-
+  Designed a modular and object-oriented Python pipeline for web scraping and data analysis of a food delivery dataset. The project applies OOP principles for clean code structure and enhanced scalability, enabling deeper insights into customer preferences and delivery patterns.  
+  **Used:** Python, BeautifulSoup, Pandas, OOP, Web Scraping
 
 ---
 
