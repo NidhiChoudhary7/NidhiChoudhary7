@@ -118,6 +118,6 @@
 <h3 align="left">🏆 Achievements & Leadership</h3>
 
 - 🏅 VIT Achiever Award (4x) for consistent academic and leadership excellence  
-- ⚽ Professional Soccer Player – Led the Bengaluru United Women’s team to a championship  
+- ⚽ Professional Soccer Player – Led the Bengaluru United Women’s team to multiple championship  
 - 👩‍🎓 Research Assistant – Used LLMs to annotate & analyze real-world outreach data for homelessness support  
 - 👥 USC Senator (VGSA) and Tech Lead (Data Science Club)  
