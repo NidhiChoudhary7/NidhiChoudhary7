@@ -33,11 +33,9 @@
 - 🩺 **[OCTMNIST Image Classification](https://github.com/NidhiChoudhary7/OctMnist-Classification)**  
   Used CNNs to classify OCT scans for retinal diseases. Achieved high precision on the OctMNIST dataset, contributing to medical AI.
 
-- 🦾 **[Reinforcement-Learning Warehouse Robot](https://github.com/NidhiChoudhary7/Reinforcement-Learning-Warehouse-Robot)**  
+- 🤖 **[Reinforcement-Learning Warehouse Robot](https://github.com/NidhiChoudhary7/Reinforcement-Learning-Warehouse-Robot)**  
   Designed and implemented reinforcement learning algorithms for task planning in a simulated warehouse. Improved route optimization and operational efficiency.
 
-- 🤖 **[StockMate – RL-Powered Warehouse Bot](https://github.com/NidhiChoudhary7/Reinforcement-Learning)**  
-  Built a reinforcement learning agent to navigate and optimize tasks in a simulated warehouse, improving operational flow.
 
 ---
 
