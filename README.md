@@ -1,33 +1,86 @@
 <h1 align="center">Hi 👋, I'm Nidhi Choudhary</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhichoudhary7&label=Profile%20views&color=0e75b6&style=flat" alt="nidhichoudhary7" /> </p>
+<h3 align="center">A Data Scientist passionate about building real-world AI solutions at scale. I specialize in Deep Learning, Reinforcement Learning, LLMs, and data-driven strategies that drive tangible impact.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nidhichoudhary7" alt="nidhichoudhary7" /></a> </p>
-
-- 🔭 I’m currently working on [Optical Coherence Tomography (OCT) Image Classification using Deep Learning](https://github.com/NidhiChoudhary7/Deep-Learning-Octminist-Classification)
-  
-- 🔭 I’m currently also working on [StockMate – A smart bot for warehouse automation](https://github.com/NidhiChoudhary7/Reinforcement-Learning)
-
-- 🌱 I’m currently learning **Reinforcement Learning and LLM**
-
-- 👨‍💻 All of my projects are available at [https://github.com/nidhichoudhary7](https://github.com/nidhichoudhary7)
-
-- 💬 Ask me about **Machine Learning and Deep Learning**
-
-- 📫 How to reach me **nidhic0711@gmail.com**
-
-- ⚡ Fun fact **I was playing soccer professionally in India**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nidhi-choudhary7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nidhi-choudhary7" height="30" width="40" /></a>
-<a href="https://medium.com/@nidhic0711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nidhic0711" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nidhi-choudhary7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-nidhi--choudhary7-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/NidhiChoudhary7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-NidhiChoudhary7-black?style=flat&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:nidhic0711@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nidhic0711@gmail.com-red?style=flat&logo=gmail" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nidhichoudhary7&show_icons=true&locale=en&layout=compact" alt="nidhichoudhary7" /></p>
+<h3 align="left">🔭 Projects</h3>
+
+- 🧠 **[ChatDB – NLP-Powered Database Query Engine](https://github.com/NidhiChoudhary7/ChatDB)**  
+  Developed an LLM-based system to convert natural language to SQL/NoSQL queries using RAG and knowledge graph integration. Empowered 50+ non-technical users and cut reporting time by 75%.
+
+- 🧘‍♀️ **[Therapy.ai – AI Mental Wellness Companion](https://github.com/NidhiChoudhary7/Therapy.ai)**  
+  Built a real-time companion using Mistral-7B with LoRA fine-tuning. Deployed using Flask & React for video/voice therapy interactions. Achieved 85% positive feedback.
+
+- 📊 **[Multi-Class Image Classification](https://github.com/NidhiChoudhary7/Image_Classification_Transfer_Learning)**  
+  Trained image classifiers using EfficientNet, ResNet, and VGG on real-world image data; reached 91.28% F1 score and 92.57% validation accuracy.
+
+- 🚀 **OCT Image Classification with Deep Learning**  
+  Used CNNs to classify OCT scans for eye diseases using the OctMNIST dataset, achieving strong performance in medical imaging.
+
+- 🤖 **[StockMate – RL-Powered Warehouse Bot](https://github.com/NidhiChoudhary7/Reinforcement-Learning)**  
+  Built a reinforcement learning agent to navigate and optimize tasks in a simulated warehouse, improving operational flow.
+
+---
+
+<h3 align="left">💼 Experience Highlights</h3>
+
+- 📈 **Demand Forecasting at Scale** – Led multi-model time-series ML pipeline using PySpark on Databricks, reducing spoilage by 70% and saving $2.1M annually.
+
+- 🧩 **Customer Segmentation** – Applied K-Means clustering to identify high-value segments, resulting in a 17% boost in conversions and 4% retention lift.
+
+- 🧪 **A/B Testing + Survey Analysis** – Quantified benefit launches across 1,000+ users with significant engagement and revenue uplift.
+
+- 🤖 **Sentiment Analysis with BERT** – Processed 50K+ customer reviews to derive key insights, driving a 10% uptick in renewals.
+
+---
+
+<h3 align="left">💬 Ask Me About</h3>
+
+- Deep Learning, Reinforcement Learning, and Computer Vision  
+- LLMs, RAG, and Knowledge Graphs  
+- Demand Forecasting and Optimization  
+- Ethical AI & Social Impact Projects  
+
+---
+
+<h3 align="left">📫 Reach Out</h3>
+
+- ✉️ Email: [nidhic0711@gmail.com](mailto:nidhic0711@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/nidhi-choudhary7](https://www.linkedin.com/in/nidhi-choudhary7)  
+- 💻 GitHub: [github.com/NidhiChoudhary7](https://github.com/NidhiChoudhary7)  
+
+---
+
+<h3 align="left">🛠️ Languages and Tools</h3>
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+</p>
+
+---
+
+<h3 align="left">🏆 Achievements & Leadership</h3>
+
+- 🏅 VIT Achiever Award (4x) for consistent academic and leadership excellence  
+- ⚽ Professional Soccer Player – Led the Bengaluru United Women’s team to a championship  
+- 👩‍🎓 Research Assistant – Used LLMs to annotate & analyze real-world outreach data for homelessness support  
+- 👥 USC Senator (VGSA) and Tech Lead (Data Science Club)  
