@@ -42,7 +42,8 @@
 - 💰 **[AI Model Price Calculator](https://github.com/asharan2buff/ModelPricing/tree/main)**  
   Built a cost estimation tool for token-based AI model usage including LLaMA, Qwen, DeepSeek, and FLUX models. Designed using Streamlit with interactive tabs, CSV upload support, token counting via `tiktoken`, and dynamic pricing summaries to support budgeting for GenAI projects.
 
-
+- 🦠 **[Rabies Cases Analysis and Prediction Pipeline](https://github.com/NidhiChoudhary7/Data_Science/tree/main/Rabies_Data_Analysis_and_Classification)**  
+  Created a complete ML pipeline to analyze and forecast Rabies cases using public datasets from New York State. Helps public health agencies monitor trends and allocate resources effectively.
 
 ---
 
