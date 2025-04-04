@@ -45,6 +45,10 @@
 - 🦠 **[Rabies Cases Analysis and Prediction Pipeline](https://github.com/NidhiChoudhary7/Data_Science/tree/main/Rabies_Data_Analysis_and_Classification)**  
   Created a complete ML pipeline to analyze and forecast Rabies cases using public datasets from New York State. Helps public health agencies monitor trends and allocate resources effectively.
 
+- 🍔 **[OOP-Based Web Scraping & Data Analysis – Food Delivery Dataset](https://github.com/NidhiChoudhary7/Data-Analysis---Food-Delivery-Dataset?tab=readme-ov-file#web-scraping-and-data-anlysis-of-food-delivery-dataset)**  
+  Designed a modular and object-oriented Python pipeline for web scraping and data analysis of a food delivery dataset. The project applies OOP principles for clean code structure and enhanced scalability, enabling deeper insights into customer preferences and delivery patterns.
+
+
 ---
 
 <h3 align="left">💼 Experience Highlights</h3>
