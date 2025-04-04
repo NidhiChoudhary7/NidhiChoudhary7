@@ -30,11 +30,14 @@
 - 📊 **[Multi-Class Image Classification](https://github.com/NidhiChoudhary7/Image_Classification_Transfer_Learning)**  
   Trained image classifiers using EfficientNet, ResNet, and VGG on real-world image data; reached 91.28% F1 score and 92.57% validation accuracy.
 
-- 🩺 **OCT Image Classification with Deep Learning**  
-  Used CNNs to classify OCT scans for eye diseases using the OctMNIST dataset, achieving strong performance in medical imaging.
+- 🩺 **[OCTMNIST Image Classification](https://github.com/NidhiChoudhary7/OctMnist-Classification)**  
+  Used CNNs to classify OCT scans for retinal diseases. Achieved high precision on the OctMNIST dataset, contributing to medical AI.
 
-- 🤖 **[Reinforcement-Learning Warehouse Robot](https://github.com/NidhiChoudhary7/Reinforcement-Learning-Warehouse-Robot)**  
+- 🦾 **[Reinforcement-Learning Warehouse Robot](https://github.com/NidhiChoudhary7/Reinforcement-Learning-Warehouse-Robot)**  
   Designed and implemented reinforcement learning algorithms for task planning in a simulated warehouse. Improved route optimization and operational efficiency.
+
+- 🤖 **[StockMate – RL-Powered Warehouse Bot](https://github.com/NidhiChoudhary7/Reinforcement-Learning)**  
+  Built a reinforcement learning agent to navigate and optimize tasks in a simulated warehouse, improving operational flow.
 
 ---
 
@@ -70,14 +73,43 @@
 <h3 align="left">🛠️ Languages and Tools</h3>
 
 <p align="left">
+  <!-- Languages -->
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://julialang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Julia_Programming_Language_Logo.svg" alt="julia" width="40" height="40"/></a>
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/></a>
+
+  <!-- Libraries -->
   <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="huggingface" width="40" height="40"/></a>
+  <a href="https://xgboost.ai/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Xgboost_logo.png" alt="xgboost" width="40" height="40"/></a>
+  <a href="https://lightgbm.readthedocs.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/LightGBM_logo.png" alt="lightgbm" width="40" height="40"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
+  <a href="https://mlflow.org/" target="_blank"><img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow" width="40" height="40"/></a>
+  <a href="https://wandb.ai/" target="_blank"><img src="https://wandb.ai/images/wandb.svg" alt="wandb" width="40" height="40"/></a>
+
+  <!-- DevOps / Deployment -->
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
+  <a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="streamlit" width="40" height="40"/></a>
+  <a href="https://dvc.org/" target="_blank"><img src="https://dvc.org/static/favicon.ico" alt="dvc" width="40" height="40"/></a>
+
+  <!-- Cloud & Big Data -->
+  <a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://cloud.google.com/bigquery" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
+
+  <!-- Databases -->
+  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.chromadb.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/121480057?s=200&v=4" alt="chromadb" width="40" height="40"/></a>
 </p>
 
 ---
